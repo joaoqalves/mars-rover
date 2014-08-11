@@ -1,5 +1,6 @@
 *.class
 target/*
+.idea
 
 # IntelliJ files
 *.iml

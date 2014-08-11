@@ -1,0 +1,53 @@
+{
+  "rovers": [
+    {
+      "position": {
+        "coordinate": {
+          "x": 1,
+          "y": 2
+        },
+        "direction": {
+          "type": "N"
+        }
+      },
+      "commands": [
+        "LEFT",
+        "MOVE",
+        "LEFT",
+        "MOVE",
+        "LEFT",
+        "MOVE",
+        "LEFT",
+        "MOVE",
+        "MOVE"
+      ]
+    },
+    {
+      "position": {
+        "coordinate": {
+          "x": 3,
+          "y": 3
+        },
+        "direction": {
+          "type": "E"
+        }
+      },
+      "commands": [
+        "MOVE",
+        "MOVE",
+        "RIGHT",
+        "MOVE",
+        "MOVE",
+        "RIGHT",
+        "MOVE",
+        "RIGHT",
+        "RIGHT",
+        "MOVE"
+      ]
+    }
+  ],
+  "upperBound": {
+    "x": 5,
+    "y": 5
+  }
+}

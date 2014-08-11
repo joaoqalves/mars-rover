@@ -1,5 +1,9 @@
 # Mars-Rover
 
+The project is built using [Maven](http://maven.apache.org/) to fetch
+all the dependencies. It can be easily imported in IntelliJ or Eclipse.
+
+
 ## CLI
 Run `App.java` in package `net.joaoqalves`. The input file is `input.txt`
 
